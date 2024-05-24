@@ -1,10 +1,10 @@
 [
   {
-    "id": 1,
+    "id": 2,
     "bundleId": "mj.PillMemo",
-    "title": "⚠️ App-Benachrichtigung ⚠️",
-    "text": "WARNUNG: Bitte beachten Sie, dass die Spendefunktion derzeit nicht wie erwartet funktioniert. Der Fehler wird so schnell wie möglich behoben. Entschuldigen Sie die Unannehmlichkeiten.",
+    "title": "ℹ️ App-Info ℹ️",
+    "text": "Bitte beachten Sie, dass die Spendenfunktion jetzt voll funktionsfähig ist! Wir freuen uns auch, bekannt geben zu können, dass der FAQ-Bereich jetzt live ist! Dort finden Sie die häufigsten Fragen zur PillMemo-App. Wenn Informationen fehlen oder falsch sind, kontaktieren Sie uns bitte über das Formular im Bereich ‘Einstellungen’. Wir hoffen, dass Ihnen die Nutzung dieser Version der PillMemo-App gefällt!",
     "confirmLabel": "OK",
-    "appVersions": ["1.2.1", "1.3.0"]
+    "appVersions": ["1.3.0"]
   }
 ]
