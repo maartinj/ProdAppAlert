@@ -1,10 +1,12 @@
 [
   {
-    "id": 2,
-    "bundleId": "mj.PillMemo",
-    "title": "ℹ️ Informacje o Aplikacji ℹ️",
-    "text": "Informujemy, że funkcja dotacji działa teraz w pełni! Z przyjemnością ogłaszamy, że sekcja FAQ jest obecnie dostępna! Znajdziesz tam najczęściej zadawane pytania dotyczące aplikacji PillMemo. Jeśli jakiekolwiek informacje są niekompletne lub nieprawidłowe, skontaktuj się z nami za pomocą formularza w sekcji ‘Ustawienia’. Mamy nadzieję, że korzystanie z tej wersji aplikacji PillMemo będzie dla Ciebie przyjemnością!",
-    "confirmLabel": "OK",
-    "appVersions": ["1.3.0"]
+    "id": 15,
+    "bundleId": "mj.PillMemo.dev",
+    "title": "Podoba Ci się PillMemo?",
+    "text": "Jeśli PillMemo pomaga Ci pamiętać o lekach, krótka ocena w App Store bardzo mi pomoże.",
+    "confirmLabel": "Oceń aplikację",
+    "appVersions": [
+      "2.0.0"
+    ]
   }
 ]

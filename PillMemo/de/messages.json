@@ -1,10 +1,12 @@
 [
   {
-    "id": 2,
-    "bundleId": "mj.PillMemo",
-    "title": "ℹ️ App-Info ℹ️",
-    "text": "Bitte beachten Sie, dass die Spendenfunktion jetzt voll funktionsfähig ist! Wir freuen uns auch, bekannt geben zu können, dass der FAQ-Bereich jetzt live ist! Dort finden Sie die häufigsten Fragen zur PillMemo-App. Wenn Informationen fehlen oder falsch sind, kontaktieren Sie uns bitte über das Formular im Bereich ‘Einstellungen’. Wir hoffen, dass Ihnen die Nutzung dieser Version der PillMemo-App gefällt!",
-    "confirmLabel": "OK",
-    "appVersions": ["1.3.0"]
+    "id": 15,
+    "bundleId": "mj.PillMemo.dev",
+    "title": "Gefällt dir PillMemo?",
+    "text": "Wenn dir PillMemo dabei hilft, deine Medikamente im Blick zu behalten, würde eine kurze Bewertung im App Store sehr helfen.",
+    "confirmLabel": "App bewerten",
+    "appVersions": [
+      "2.0.0"
+    ]
   }
 ]
